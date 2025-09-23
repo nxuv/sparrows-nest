@@ -1,0 +1,51 @@
+!doctype "html"
+html {
+    head {
+        meta http-equiv="Content-Type" content="text/html; charset=UTF-8"
+        link rel="icon" type="image/x-icon" href="/img/presskit/logo-notext.png"
+        link rel="stylesheet" type="text/css" href="/css/index.css"
+        script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+        script src="/lib/purejs-markdown.min.js"
+        title "About"
+
+        style """
+            .mission {
+                font-family: 'ocr';
+                font-size: 1.2em;
+                width: 75%;
+                /* border: 0.25em solid black; */
+                margin-left: auto;
+                margin-right: auto;
+                padding: 0.25em 1em;
+            }
+
+            p {
+                font-size: 1.25em;
+            }
+            """
+    }
+    body {
+        div id="content" {
+            div class="mission" {
+                @include "_md/meta-mission.md"
+            }
+            div class="center-items" { img class="img-bw" src="/img/presskit/logo-notext.png" }
+        }
+        // <div id="content">
+        //     <h2>Team:</h2>
+        //     <div class="team-member">
+        //         <h3>John Doe</h3>
+        //         <h4>Do dolore et dolor consequat. Ullamco sit nisi velit deserunt. Nulla cupidatat cupidatat adipisicing nisi id ut laborum laborum consectetur sint cupidatat officia Lorem. Incididunt anim esse enim ullamco deserunt in consectetur sit sit reprehenderit do.</h4>
+        //     </div>
+        //     <div class="team-member">
+        //         <h3>John Doe</h3>
+        //         <h4>Do dolore et dolor consequat. Ullamco sit nisi velit deserunt. Nulla cupidatat cupidatat adipisicing nisi id ut laborum laborum consectetur sint cupidatat officia Lorem. Incididunt anim esse enim ullamco deserunt in consectetur sit sit reprehenderit do.</h4>
+        //     </div>
+        //     <div class="team-member">
+        //         <h3>John Doe</h3>
+        //         <h4>Do dolore et dolor consequat. Ullamco sit nisi velit deserunt. Nulla cupidatat cupidatat adipisicing nisi id ut laborum laborum consectetur sint cupidatat officia Lorem. Incididunt anim esse enim ullamco deserunt in consectetur sit sit reprehenderit do.</h4>
+        //     </div>
+        // </div>
+        script id="navscr" src="/js/navbar.js"
+    }
+}

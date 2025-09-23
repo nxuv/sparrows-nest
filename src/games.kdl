@@ -1,0 +1,205 @@
+!doctype "html"
+html {
+    head {
+        @include "_lib/meta.kdl"
+
+        title "Games"
+
+        script src="/js/easydom.js"
+
+        link rel="stylesheet" type="text/css" href="/css/theme-light.css"
+
+        link rel="stylesheet" type="text/css" href="/css/index.css"
+        link rel="stylesheet" type="text/css" href="/css/games-new.css"
+
+        link rel="stylesheet" type="text/css" href="/css/navbar.css"
+
+        script src="/js/games-new.js"
+    }
+
+    body {
+        @include "_lib/navbar.kdl"
+
+        div id="content" {
+            div id="carousel" {
+                button id="button-left" class="c-button img-bw"
+                button id="button-right" class="c-button img-bw"
+            }
+            div id="descbox" {
+                // - ---------------------------------- VOLGA ----------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg img-bw" src="/img/games/volga.png"
+
+                    p { a href="https://data-sparrow.itch.io/fist-world-volga" "Buy" }
+
+                    strong {
+                        p "FIST WORLD VOLGA"
+                        p "Release Date: April 30th 2021"
+                        p "Media Type: Fighting Board Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-volga.md"
+                }
+
+                // - -------------------------------- TREMERINE --------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/tremerine.png"
+
+                    p { a href="https://data-sparrow.itch.io/tremerine-sea-of-the-stars" "Buy" }
+
+                    strong {
+                        p "TREMERINE: SEA OF THE STARS"
+                        p "Release Date: November 13th 2021"
+                        p "Media Type: Tabletop RPG"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-tremerine.md"
+                }
+
+                // - --------------------------------- SHARDANA --------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/shardana.png"
+
+                    p {
+                        a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp" "Buy"
+                    }
+
+                    strong {
+                        p "SHARDANA: HYDRO TRAIL GP"
+                        p "Release Date: July 24th 2023"
+                        p "Media Type: Racing Board Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-shardana.md"
+                }
+
+                // - ---------------------------------- SIRIUS ---------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/sirius.png"
+
+                    p {
+                        a href="https://data-sparrow.itch.io/sirius-treacherous-reaches" "Buy"
+                    }
+
+                    strong {
+                        p "SIRIUS: TREACHEROUS REACHES"
+                        p "Release Date: June 11th 2024"
+                        p "Media Type: Social Deduction Board Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-sirius.md"
+                }
+
+                // - --------------------------------- TRIUNFO ---------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/triunfo.png"
+
+                    p {
+                        a href="https://datasparrow.itch.io/rebuilding-triunfo" "Buy"
+                    }
+
+                    strong {
+                        p "REBUILDING TRIUNFO"
+                        p "Release Date: April 28th 2025"
+                        p "Media Type: Economic Warfare Card Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-triunfo.md"
+                }
+
+                // - ---------------------------------- ROMAN ----------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/roman.png"
+
+                    p {
+                        a href="https://datasparrow.itch.io/roman-blasters" "Buy"
+                    }
+
+                    strong {
+                        p "ROMAN BLASTERS"
+                        p "Release Date: June 20th 2025"
+                        p "Media Type: Card Combat Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-roman.md"
+                }
+
+                // - ---------------------------------- SULAY ----------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/sulay.png"
+
+                    p {
+                        a href="https://datasparrow.itch.io/sulay-rally-raid" "Buy"
+                    }
+
+                    strong {
+                        p "SULAY RALLY RAID"
+                        p "Release Date: October 10th 2025"
+                        p "Media Type: Journaling Game"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-sulay.md"
+                }
+
+                // - --------------------------------- LUTESSE ---------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/lutesse.png"
+
+                    p {
+                        a href="" "Buy"
+                    }
+
+                    strong {
+                        p "RADIO FREE LUTESSE"
+                        p "Release Date: Q4 2025"
+                        p "Media Type: Skate Session RPG"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-lutesse.md"
+                }
+
+                // - --------------------------------- TEMPLATE --------------------------------- -
+                // div class="gamedesc" {
+                //     img class="gameimg" src="/img/games/.png"
+
+                //     p {
+                //         a href="" "Buy"
+                //     }
+
+                //     strong {
+                //         p ""
+                //         p "Release Date: "
+                //         p "Media Type: "
+                //         p "Platform: Itch.io"
+                //     }
+
+                //     @include "_lib/separator.kdl"
+                //     @include "_md/info-.md"
+                // }
+                // - ---------------------------------------------------------------------------- -
+            }
+        }
+
+        // script id="navscr" src="/js/navbar.js"
+
+        @include "_lib/footer.kdl"
+
+        @include "_lib/noscript.kdl"
+    }
+}

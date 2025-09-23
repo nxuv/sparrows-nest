@@ -1,0 +1,6 @@
+noscript {
+    div id="noscript" {
+        h1 "Your browser does not support JavaScript"
+        h3 "If you can enable it then please do so as this website cannot run without it"
+    }
+}

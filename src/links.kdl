@@ -1,0 +1,38 @@
+!doctype "html"
+html {
+    head {
+        meta http-equiv="Content-Type" content="text/html; charset=UTF-8"
+        title "Links"
+        link rel="icon" type="image/x-icon" href="/img/presskit/logo-notext.png"
+        link rel="stylesheet" type="text/css" href="/css/index.css"
+        script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+        script src="/lib/purejs-markdown.min.js"
+        style """
+            h1, h2, h3, h4, .text { text-align: center }
+            .text, .links {
+                font-family: 'ocr';
+                font-size: 1.2em;
+                width: 75%;
+                /* border: 0.25em solid black; */
+                margin-left: auto;
+                margin-right: auto;
+                padding: 0.25em 1em;
+            }
+
+            p {
+                font-size: 1.25em;
+            }
+            """
+    }
+    body {
+        div id="content" {
+            div class="pjs-markdown text" {
+                @include "_md/meta-links-intro.md"
+            }
+            div class="pjs-markdown links" {
+                @include "_md/meta-links.md"
+            }
+        }
+        script id="navscr" src="/js/navbar.js"
+    }
+}

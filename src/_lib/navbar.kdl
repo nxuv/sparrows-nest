@@ -1,0 +1,11 @@
+div id="navbar" {
+    a class="navitem" href="/"        "HOME"
+    a class="navitem" href="/games"   "GAMES"
+    a class="navitem" href="/books"   "BOOKS"
+    a class="navitem" href="/music"   "MUSIC"
+    a class="navitem" href="/mods"    "MODS"
+    a class="navitem" href="/contact" "CONTACT"
+    a class="navitem" href="/about"   "ABOUT"
+    a class="navitem" href="/links"   "LINKS"
+    button class="navitem" id="theme-button"
+}

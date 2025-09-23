@@ -11,20 +11,20 @@ ALIGN = "35"
 SCSS_STYLE = "expanded" # compressed, expanded
 
 # - ------------------------------- HTML Target -------------------------------- -
-# HTML_LIB := $(wildcard src/_lib/*.kdl)
-# HTML_MD := $(wildcard src/_md/*.md)
+HTML_LIB := $(wildcard src/_lib/*.kdl)
+HTML_MD := $(wildcard src/_md/*.md)
 
-# HTML_SOURCE := $(wildcard src/*.kdl)
-# HTML_SOURCE += $(wildcard src/**/*.kdl)
+HTML_SOURCE := $(wildcard src/*.kdl)
+HTML_SOURCE += $(wildcard src/**/*.kdl)
 
-# HTML_SOURCE := $(filter-out $(HTML_LIB),$(HTML_SOURCE))
+HTML_SOURCE := $(filter-out $(HTML_LIB),$(HTML_SOURCE))
 
-# TARGET_HTML := $(patsubst src/%.kdl,public/%.html,$(HTML_SOURCE))
+TARGET_HTML := $(patsubst src/%.kdl,public/%.html,$(HTML_SOURCE))
 
-# public/%.html: src/%.kdl $(HTML_LIB) $(HTML_MD)
-# 	- [ ! -d $(dir $@) ] && mkdir -pv $(dir $@)
-# 	printf "%-$(ALIGN)s > %s\n" "$<" "$@"
-# 	kdl2html $< | prettier --parser="html" --tab-width=4 --embedded-language-formatting="off" > $@
+public/%.html: src/%.kdl $(HTML_LIB) $(HTML_MD)
+	- [ ! -d $(dir $@) ] && mkdir -pv $(dir $@)
+	printf "%-$(ALIGN)s > %s\n" "$<" "$@"
+	kdl2html $< | prettier --parser="html" --tab-width=4 --embedded-language-formatting="off" > $@
 
 # - -------------------------------- CSS Target -------------------------------- -
 # CSS_LIB := $(wildcard src/scss/_lib/*.scss)
@@ -49,7 +49,7 @@ all: $(TARGETS)
 
 clean:
 	rm $(TARGET_HTML)
-	rm $(TARGET_CSS)
+	# rm $(TARGET_CSS)
 
 .DEFAULT_GOAL := all
 .MAIN: all
