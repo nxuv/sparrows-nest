@@ -203,4 +203,56 @@ By default, Roman Blasters includes **full assets for both tabletop and online p
 ### **_Audentes Fortuna Iuvat_ - it's time to duel!**
 `;
 
+var descriptionSulay = `
+**Sulay Rally Raid**
 
+**Release Date: October 10th 2025**
+
+**Media Type: Journaling Game**
+
+**Platform: Itch.io**
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
+The year is 2407
+
+After a century of intermittent conflict, peace seems within reach on the Inner Colonial world of Tau Ceti II. The Greater Sulay Peninsula, mainly known across the galaxy as the backdrop to sun-bleached combat footage and exploitative action films, might have finally reached a critical turning point.
+
+### *A tired peace, born from regret and exhaustion.*
+
+Despite significant ideological and cultural divides, the reality of a frozen frontline, dwindling foreign support and the progressively unjustifiable cost of war have pushed the parties involved to finally, begrudgingly sit at the same table. Representing the north, the Sulay Socialist Assembly: a socialist republic backed by the Terran Protectorate; representing the south, the Southern Sulay Emirates: a league of Sunni citystates backed by the United Systems Alliance.
+
+### *A timely peace, one still worth celebrating.*
+
+From either sides of the Baghlani-Kanzeb Line, a tentative sigh of collective relief ushers the dawn of (hopefully) better days. Once inconceivable shows of cooperation between the two polities begin making the rounds across the galactic infonet - to include a particular racing event, a cross-country charity drive bridging the gap between philantrophy, cultural preservation and offroading thrills.
+
+### *Gentlemen and ladies, welcome to Sulay.*
+`;
+
+var descriptionLutesse = `
+**Radio Free Lutesse**
+
+**Release Date: Q4 2025**
+
+**Media Type: Skate Session RPG**
+
+**Platform: Itch.io**
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
+The year is 2405
+
+Almost twenty years after the brutal fall of the Avignon Empire, its once-shimmering capital city still stands as little more than a broken monument to fascist folly. The terror bombings may have stopped, and the foreign peacekeepers are mostly gone, but no  economic redevelopment program can make up for what was lost.
+
+### *Siblings, cousins, parents - everyone lost someone back then.*
+
+In the face of solitude and devastation, many of those who did banded together and escaped into the ruins - became misfits, or "Racailles". Back then, it was for survival: it was that, or waiting to get mulched by a rogue imperial mech plowing through your assigned refugee camp. Today, it's for belonging: to not die inside while making ends meet in a city that, by design, still feels like a prison to most.
+
+### *A new and improved Nouvelle Lutesse - even newer, sleeker and more angular than ever before.*
+
+Back then, those "Racailles" skated because it was fast, agile and took the edge off. It's not like you could just drive around what remained of the boulevards: first, because you never knew when a fight could break out between army remnants and peacekeepers; second, because you sure as hell didn't own an unexploded car. Twenty years later, they do because Alliance architects have unwittingly turned the city into a veritable skater paradise - and nowhere else is more true than in the West Side, home to most of the city's best skating spots.
+
+### *You caught all that? Then tune in and turn up: it's Radio Free Lutesse.*
+`;

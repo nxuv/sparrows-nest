@@ -11,6 +11,8 @@ addItem("https://data-sparrow.itch.io/shardana-hydro-trail-gp", "/img/games/shar
 addItem("https://data-sparrow.itch.io/sirius-treacherous-reaches", "/img/games/sirius.png", descriptionSirius);
 addItem("https://datasparrow.itch.io/rebuilding-triunfo", "/img/games/triunfo.png", descriptionTriunfo);
 addItem("https://datasparrow.itch.io/roman-blasters", "/img/games/roman.png", descriptionRoman);
+addItem("https://datasparrow.itch.io/sulay-rally-raid", "/img/games/sulay.png", descriptionSulay);
+addItem("https://datasparrow.itch.io/", "/img/games/lutesse.png", descriptionLutesse);
 
 showItem(0);
 
