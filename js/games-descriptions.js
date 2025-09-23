@@ -215,7 +215,8 @@ var descriptionSulay = `
 <div style="min-height: 0.5em"></div>
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
-The year is 2407
+
+### *The year is 2407*
 
 After a century of intermittent conflict, peace seems within reach on the Inner Colonial world of Tau Ceti II. The Greater Sulay Peninsula, mainly known across the galaxy as the backdrop to sun-bleached combat footage and exploitative action films, might have finally reached a critical turning point.
 
@@ -242,7 +243,8 @@ var descriptionLutesse = `
 <div style="min-height: 0.5em"></div>
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
-The year is 2405
+
+### *The year is 2405*
 
 Almost twenty years after the brutal fall of the Avignon Empire, its once-shimmering capital city still stands as little more than a broken monument to fascist folly. The terror bombings may have stopped, and the foreign peacekeepers are mostly gone, but no  economic redevelopment program can make up for what was lost.
 
