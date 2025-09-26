@@ -11,7 +11,7 @@ html {
             h1, h2, h3, h4, .text { text-align: center }
             .text, .links {
                 font-family: 'ocr';
-                font-size: 1.2em;
+                font-size: 1.2rem;
                 width: 75%;
                 /* border: 0.25em solid black; */
                 margin-left: auto;
@@ -20,6 +20,11 @@ html {
             }
 
             p {
+                font-size: 1.25em;
+            }
+
+            li {
+                display: block;
                 font-size: 1.25em;
             }
             """

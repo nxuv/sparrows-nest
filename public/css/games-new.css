@@ -45,10 +45,13 @@
     /* height: 100%; */
     min-height: 200px;
     max-height: 200px;
-    max-width: 75vw;
+    /* max-width: 75vw; */
     display: block;
     width: auto;
-    object-fit: contain;
+    /* object-fit: contain; */
+    object-fit: scale-down;
+    width: 100%;
+
 }
 
 .c-button {
