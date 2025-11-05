@@ -32,7 +32,8 @@
 - SandroAD - [https://www.failforward.moe/](https://www.failforward.moe/)
 - Lua Computa - [https://lua-computa.neocities.org/](https://lua-computa.neocities.org/)
 - David L. - [https://www.pinayu.com/](https://www.pinayu.com/)
-- al1-ce - [https://al1-ce.dev/](https://al1-ce.dev/)
+- Mouette - [https://mouette.moe](https://mouette.moe)
+- WIREGRRRL - [https://digitalorchid.net](https://digitalorchid.net)
 
 ## **NEWS &amp; CRITIQUE**
 
