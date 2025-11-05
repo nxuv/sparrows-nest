@@ -50,3 +50,7 @@
 - Cave Story Tribute Site - [https://www.cavestory.org/](https://www.cavestory.org/)
 - Captain Zedo's Hardwar Community Page - [http://zedo.hardwar.info/](http://zedo.hardwar.info/)
 
+## **WEB RADIO**
+- Cybergrunge - [https://cybergrunge.net/](https://cybergrunge.net/)
+- Lainzine - [https://radio.lainzine.org/](https://radio.lainzine.org/)
+
