@@ -1,30 +1,130 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <style>
+            :root { --foreground: white; --background: black; }
+        </style>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Books</title>
-        <link
-            rel="icon"
-            type="image/x-icon"
-            href="/img/presskit/logo-notext.png"
-        />
+        <meta name="author" content="Data Sparrow" />
+        <meta name="color-scheme" content="light only" />
+        <link rel="icon" href="/img/presskit/logo-notext.png" />
+        <title>Data Sparrow - Books</title>
+        <script src="/js/easydom.js"></script>
+        <script src="/js/cookie.js"></script>
+        <script src="/js/themeloader.js"></script>
         <link rel="stylesheet" type="text/css" href="/css/index.css" />
         <link rel="stylesheet" type="text/css" href="/css/games.css" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <script src="/lib/purejs-markdown.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/navbar.css" />
+        <script src="/js/games.js"></script>
     </head>
     <body>
+        <div id="navbar">
+            <a class="navitem" href="/">HOME</a>
+            <a class="navitem" href="/games">GAMES</a>
+            <a class="navitem" href="/books">BOOKS</a>
+            <a class="navitem" href="/music">MUSIC</a>
+            <a class="navitem" href="/mods">MODS</a>
+            <a class="navitem" href="/contact">CONTACT</a>
+            <a class="navitem" href="/about">ABOUT</a>
+            <a class="navitem" href="/links">LINKS</a>
+            <button class="navitem" id="theme-button"></button>
+            <script src="/js/themebutton.js"></script>
+        </div>
         <div id="content">
             <div id="carousel">
                 <button id="button-left" class="c-button img-bw"></button>
-                <div id="gamebox"></div>
                 <button id="button-right" class="c-button img-bw"></button>
             </div>
-            <div id="descbox"></div>
+            <div id="descbox">
+                <div class="gamedesc">
+                    <img
+                        class="gameimg img-bw"
+                        src="/img/books/psycho-patrol.png"
+                    />
+                    <p>
+                        <a
+                            href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r"
+                            >Get Now!</a
+                        >
+                    </p>
+                    <strong>
+                        <p>ORIENTATION</p>
+                        <p>AN INTRODUCTORY ZINLET TO PSYCHO PATROL R</p>
+                        <p>Release Date: March 23th 2025</p>
+                        <p>Platform: Itch.io</p>
+                    </strong>
+                    <div style="min-height: 0.5em"></div>
+                    <hr
+                        style="height: 2px; background-color: black; border: none;"
+                    />
+                    <div style="min-height: 0.5em"></div>
+                    <h3><em>The year is 2000 A.D.</em></h3>
+                    <p>
+                        The world's foremost superpower, the Federation of
+                        Pan-Europa, is heading into disarray.  As infrastructure
+                        decays and violent militias carve up increasing swathes
+                        of its territory,  the stability of its collective
+                        unconscious also finds itself under siege from a whole
+                        new kind of threat.
+                    </p>
+                    <h3><em>Psychohazards: viruses of the mind.</em></h3>
+                    <p>
+                        Whether through purposeful misinformation or rumors
+                        spiraling out of control, the threat posed by
+                        psychohazards has led to the establishment of a new kind
+                        of police unit: one meant to investigate and eradicate
+                        them at the source - by any means necessary.
+                    </p>
+                    <h3><em>Enter the "Psycho Patrol".</em></h3>
+                    <p>
+                        Founded by clamored criminologist Lorenzo Visconti as a
+                        new kind of high-tech, anti-hitlerite force guided by
+                        the principles of Wilhelm Reich, the European Federal
+                        Police's new "Psycho Patrol" is a fledgling institution
+                        unpopular among its peer organizations, but brimming
+                        with potential. The perfect place for someone like you.
+                    </p>
+                    <h3><em>So misunderstood, so full of potential.</em></h3>
+                    <p>
+                        So go ahead, grab this zine and get acquainted:
+                        featuring over 20 pages of useful tidbits, character
+                        insights and mildly disconcerting fanart, ORIENTATION is
+                        the perfect introduction to the peculiar world of PSYCHO
+                        PATROL R, the latest in FPS/RPG europolice simulation by
+                        CONSUMER SOFTPRODUCTS. This zine was composed with their
+                        blessing and help, allowing us access to the game for
+                        playtesting and design advisory purposes. 
+                    </p>
+                    <p>
+                        All in-game assets depicted, such as weapon models and
+                        character portraits, were sourced from CONSUMER
+                        SOFTPRODUCTS’ development archives, and all original
+                        writing therein was carefully vetted before finalization
+                        – to make sure each character’s individual neuroses are
+                        rendered accurately and faithfully.
+                    </p>
+                    <p>
+                        As the only human left on Twin Terra with an iron
+                        backbone, a strong sense of justice and very few moral
+                        boundaries, only you can pull the Pan-European
+                        Federation back from the brink of disaster.
+                    </p>
+                    <h3><em>Good luck out there, Officer.</em></h3>
+                </div>
+            </div>
         </div>
-        <script id="navscr" src="/js/navbar.js"></script>
-        <script src="/js/books-descriptions.js"></script>
-        <script src="/js/books.js"></script>
-        <script src="/lib/purejs-markdown.min.js"></script>
+        <div id="footer">
+            <div id="footer-top"></div>
+            <div id="footer-bottom"></div>
+        </div>
+        <noscript>
+            <div id="noscript">
+                <h1>Your browser does not support JavaScript</h1>
+                <h3>
+                    If you can enable it then please do so as this website
+                    cannot run without it
+                </h3>
+            </div>
+        </noscript>
     </body>
 </html>

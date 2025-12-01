@@ -1,52 +1,71 @@
 INTRODUCTION
 ===
 
-We could open this section with a statement about the meaning of our name: about how the fleeting,
-virtual essence of the “Data Sparrow” is an allegory for a collective with no physical headquarters,
-no “roots” but rather “wings”, spanning across this strange world in the form of our members – as it’s only thanks them
-that the Sparrow can take flight and reach new heights.
+Data Sparrow is a remotely-operated art collective active since 2021,
+mostly operating in the fields of tabletop gaming and music publishing.
 
-But that’d be one flight of fancy too many for what amounts to a group of all-too-eager hobbyists,
-so let’s keep our feet on the ground for now.
-<div style="padding: 0.2em;"></div>
+Our main aesthetic touchstones include late 20th century anime and videogames,
+but individual inspirations obviously vary wildly from member to member - despite our shared tendency
+to fall into mecha anime tangents whenever a development session runs for long enough.
 
-SO, WHAT IS DATA SPARROW?
-==
+We are not a company, but we believe in a proper paper trail.
+We are an art collective, but we're a friend group before anything else.
+We believe that no idea is stupid enough to be put to paper, and we *will* make games out of the least marketable concepts
+we can think of just to see what happens - and because, as it turns out, making art with your friends is really fun.
+That and the fact that we're more or less all fortunate enough to not have to treat this endeavor as our dayjob,
+although the kickbacks do help.
+<div style="padding: 0.7em;"></div>
 
-Basically, Data Sparrow is an art collective. For what kind of art?
-Whichever we have the facilities and ideas to pursue, mostly.
-Currently, we’re focusing on tabletop games and printed media.
-In the future? Who knows! Nothing is off the table aside from a few,
-obviously unethical endeavors that have been catching on these past couple of years,
-so if we ever have the means to actually put out a videogame or two,
-we’ll most certainly try.
-
-Our aesthetic preferences and areas of expertise are as many as our members,
-but our founding value is the point around which it all pivots:
-branch out whenever you can, don’t let ideas overstay their welcome,
-keep it varied and fun.
-<div style="padding: 0.2em;"></div>
-
-ONE UNIVERSE…
+CORE TENETS
 ===
 
-To this end, our projects currently take place in a single,
-expansive universe designed from the ground up as a creative playground with minimal guidelines.
-This streamlines setting-level writing immensely, as all projects get to be on the same historical timeline
-and all that’s needed is defining the details of the particular locations in which each project takes place.
-<div style="padding: 0.2em;"></div>
+Artistically speaking, Data Sparrow works are more or less all built around three core tenets: **SIMPLICITY**, **SINCERITY** and **STYLE**
 
-…MANY STORIES
+**SIMPLICITY** means making things that don't take days of preparation to understand the rules for, or, if we can optimize for it,
+set up. In the case of tabletop games, that specifically means things you can buy,
+print and play without excessive resource expenditure, with rules that are simple to understand but kinetic enough in practice
+to feel fresh and interesting.
+
+**SINCERITY** means that, whatever the subject of a particular work is, we do our best to treat it with respect
+and conduct appropriate research. We don't make things about topics we don't personally enjoy
+or find interesting - and we hope that, through play, you may get interested too.
+
+**STYLE** means a marriage of beauty and practicality: a meeting between minimalist layout designed for ease of printing,
+paired with lavish key art in a variety of visual styles, using a variety of composition techniques - from 2D art to 3D renders
+to photo-compositing, the only limit is our own capabilities. 
+<div style="padding: 0.7em;"></div>
+
+UNIFIED SETTING
 ===
 
-This, however, doesn’t mean there’s some sort of grand converging narrative going on:
-every Data Sparrow endeavor is a standalone work, whose only references
-to other works amount to the natural amounts of cross-pollination resulting from two planets being neighbors,
-or two sports occupying the same niche. You can come in wherever, you can come out wherever.
-<div style="padding: 0.4em;"></div>
+Most Data Sparrow games take place in a unified science fiction setting designed from the ground up as a creative playground
+in which to explore a variety of aesthetics, themes and game genres. That, and because developing a single setting
+over multiple projects helps you build a very useful backlog of visual assets you can recycle and historical events
+you can use to greatly expedite worldbuilding. Work smarter, not harder.
 
-If any of this stuff sounds up your alley, you’re welcome to take a look at our projects and [contact us](/contact)
-if you want to know more about anything we’re currently working on! We don’t like to show things publicly
-unless we know they fundamentally work and are 100% going to be released, but a question or two never hurt anyone.
-<div style="padding: 1.4em;"></div>
+That said, we're not on some narrative <abbr title="Fear Of Missing Out"><span>FOMO</span></abbr>, "cinematic universe" nonsense.
+The intricacies of 24th century powerboat racing are not necessary to understand
+why the capital city of a dead empire is now a very pretty open-air prison.
+Every Data Sparrow work is, ultimately, a standalone affair, from which you may extrapolate a few, entirely optional,
+background "narrative arcs" by following the path of recurring players - like certain corporations or non-state actors.
+
+But you can also not do that, and that's entirely ok.
+<div style="padding: 0.7em;"></div>
+
+...WHY'D YOU REWRITE THIS PAGE?
+===
+
+If you're a returning visitor, you may notice this page used to read a lot differently - and, in some aspects, a lot worse. 
+
+That's because, at the time of writing, the writer (who is also writing this new page. Hi!) didn't think highly
+enough of their work to present it in an objective light. All that talk about being "all-too-eager hobbyists"
+was preemptive deflection of negative criticism born from insecurity.
+
+Then, in 2025, we released four games and a very important promotional zine, alongside a slew of complementary material
+for all the above. Aside from working him to near burnout, this escalation in capabilities and output finally made him realize
+that Data Sparrow is an outfit worthy of respect if not, according to some of our peers, a "class act".
+This rewrite is an effort in finally acting like it.
+
+Enjoy your stay and [contact us](/contact) if you'd like to know anything about our current or upcoming projects.
+<div style="padding: 0.7em;"></div>
 

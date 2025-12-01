@@ -1,0 +1,47 @@
+#content a {
+    width: 8em;
+    height: 8em;
+}
+img {
+    width: 8em;
+    /* -webkit-filter: grayscale(100%); */
+    /* filter: grayscale(100%) contrast(2); */
+}
+
+img:hover {
+    position: relative;
+    left: -0.5em;
+    top: -0.5em;
+    width: 9em;
+}
+
+#content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+#links div{
+    margin: 1.75em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#links div div{
+    font-size: 2em;
+    justify-content: center;
+}
+

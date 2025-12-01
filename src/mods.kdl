@@ -1,97 +1,23 @@
 !doctype "html"
 html {
     head {
-        meta http-equiv="Content-Type" content="text/html; charset=UTF-8"
-        title "Mods"
-        link rel="icon" type="image/x-icon" href="/img/presskit/logo-notext.png"
+        @include "_lib/meta.kdl"
+
+        title "Data Sparrow - Mods"
+
+        script src="/js/easydom.js"
+        script src="/js/cookie.js"
+        script src="/js/themeloader.js"
+
         link rel="stylesheet" type="text/css" href="/css/index.css"
-        script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
-        style """
-            * {
-                /* outline: 1px solid green; */
-            }
+        link rel="stylesheet" type="text/css" href="/css/page-mods.css"
 
-            img {
-                /* width: 8em; */
-                width: 20em;
-                height: 20em;
-                /* -webkit-filter: grayscale(100%); */
-                /* filter: grayscale(100%) contrast(2); */
-            }
-
-            #links>div:hover img {
-                width: 21em;
-                height: 21em;
-                filter: blur(0.125em);
-            }
-
-            #links>div:hover .moddesc {
-                opacity: 1;
-                cursor: pointer;
-            }
-
-            #content {
-                display: flex;
-                flex-direction: row;
-                flex-wrap: wrap;
-                align-items: center;
-                justify-content: center;
-            }
-
-            #links {
-                display: flex;
-                flex-direction: row;
-                flex-wrap: wrap;
-                align-items: stretch;
-                justify-content: space-evenly;
-            }
-
-            #links>div{
-                margin: 4em;
-                display: flex;
-                flex-direction: column;
-                flex-wrap: wrap;
-                align-items: center;
-                justify-content: flex-end;
-            }
-
-            /* #links>div>div{ */
-            /*     font-size: 2em; */
-            /*     justify-content: center; */
-            /* } */
-
-            .moddesc {
-                position: absolute;
-                /* top: -14em; */
-                /* left: -14em; */
-                width: 14em;
-                height: 14em;
-                text-align: center;
-                vertical-align: middle;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                text-decoration: none;
-                color: #ffffff;
-                background: #000000aa;
-                font-size: 1.5em;
-                opacity: 0;
-                pointer-events: none;
-            }
-
-            .modname {
-                font-size: 1.5em;
-                position: relative;
-                top: -13.5em;
-            }
-
-            a {
-                text-decoration: none;
-            }
-
-            """
+        link rel="stylesheet" type="text/css" href="/css/navbar.css"
     }
+
     body {
+        @include "_lib/navbar.kdl"
+
         div id="content" {
             div id="links" {
                 div {
@@ -151,6 +77,9 @@ html {
                 }
             }
         }
-        script id="navscr" src="/js/navbar.js"
+
+        @include "_lib/footer.kdl"
+
+        @include "_lib/noscript.kdl"
     }
 }

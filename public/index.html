@@ -1,45 +1,35 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <link rel="stylesheet" type="text/css" href="/css/index.css" />
-        <title>Home</title>
-        <link
-            rel="icon"
-            type="image/x-icon"
-            href="/img/presskit/logo-notext.png"
-        />
-        <script src="js/index.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-        <script src="/lib/purejs-markdown.min.js"></script>
         <style>
-            #mission {
-                text-align: center;
-            }
-            a img {
-                width: 20em;
-            }
-
-            .games {
-                display: flex;
-                flex-direction: row;
-                flex-wrap: wrap;
-                /* flex-flow: row; */
-                justify-content: space-evenly;
-                align-items: center;
-                /* margin: 2em auto 2em auto; */
-            }
-
-            p {
-                font-size: 1.25em;
-            }
-
-            h2 {
-                font-size: 1.6em;
-            }
+            :root { --foreground: white; --background: black; }
         </style>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="author" content="Data Sparrow" />
+        <meta name="color-scheme" content="light only" />
+        <link rel="icon" href="/img/presskit/logo-notext.png" />
+        <title>Data Sparrow - Home</title>
+        <script src="/js/easydom.js"></script>
+        <script src="/js/cookie.js"></script>
+        <script src="/js/themeloader.js"></script>
+        <script src="js/index.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/index.css" />
+        <link rel="stylesheet" type="text/css" href="/css/page-index.css" />
+        <link rel="stylesheet" type="text/css" href="/css/navbar.css" />
     </head>
     <body>
+        <div id="navbar">
+            <a class="navitem" href="/">HOME</a>
+            <a class="navitem" href="/games">GAMES</a>
+            <a class="navitem" href="/books">BOOKS</a>
+            <a class="navitem" href="/music">MUSIC</a>
+            <a class="navitem" href="/mods">MODS</a>
+            <a class="navitem" href="/contact">CONTACT</a>
+            <a class="navitem" href="/about">ABOUT</a>
+            <a class="navitem" href="/links">LINKS</a>
+            <button class="navitem" id="theme-button"></button>
+            <script src="/js/themebutton.js"></script>
+        </div>
         <div id="content">
             <img
                 class="img-bw"
@@ -116,6 +106,18 @@
                 <h2>Enjoy your stay!</h2>
             </div>
         </div>
-        <script id="navscr" src="/js/navbar.js"></script>
+        <div id="footer">
+            <div id="footer-top"></div>
+            <div id="footer-bottom"></div>
+        </div>
+        <noscript>
+            <div id="noscript">
+                <h1>Your browser does not support JavaScript</h1>
+                <h3>
+                    If you can enable it then please do so as this website
+                    cannot run without it
+                </h3>
+            </div>
+        </noscript>
     </body>
 </html>

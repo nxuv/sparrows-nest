@@ -3,18 +3,18 @@ html {
     head {
         @include "_lib/meta.kdl"
 
-        title "Games"
+        title "Data Sparrow - Games"
 
         script src="/js/easydom.js"
         script src="/js/cookie.js"
         script src="/js/themeloader.js"
 
         link rel="stylesheet" type="text/css" href="/css/index.css"
-        link rel="stylesheet" type="text/css" href="/css/games-new.css"
+        link rel="stylesheet" type="text/css" href="/css/games.css"
 
         link rel="stylesheet" type="text/css" href="/css/navbar.css"
 
-        script src="/js/games-new.js"
+        script src="/js/games.js"
 
         // style " * { outline: 1px solid green !important; } "
     }

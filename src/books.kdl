@@ -1,26 +1,55 @@
 !doctype "html"
 html {
     head {
-        meta http-equiv="Content-Type" content="text/html; charset=UTF-8"
-        title "Books"
-        link rel="icon" type="image/x-icon" href="/img/presskit/logo-notext.png"
+        @include "_lib/meta.kdl"
+
+        title "Data Sparrow - Books"
+
+        script src="/js/easydom.js"
+        script src="/js/cookie.js"
+        script src="/js/themeloader.js"
+
         link rel="stylesheet" type="text/css" href="/css/index.css"
         link rel="stylesheet" type="text/css" href="/css/games.css"
-        script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"
-        script src="/lib/purejs-markdown.min.js"
+
+        link rel="stylesheet" type="text/css" href="/css/navbar.css"
+
+        script src="/js/games.js"
+
+        // style " * { outline: 1px solid green !important; } "
     }
+
     body {
+        @include "_lib/navbar.kdl"
+
         div id="content" {
             div id="carousel" {
                 button id="button-left" class="c-button img-bw"
-                div id="gamebox"
                 button id="button-right" class="c-button img-bw"
             }
-            div id="descbox"
+
+            div id="descbox" {
+                // - ------------------------------ PSYCHO PATROL ------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg img-bw" src="/img/books/psycho-patrol.png"
+
+                    p { a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r" "Get Now!" }
+
+                    strong {
+                        p "ORIENTATION"
+                        p "AN INTRODUCTORY ZINLET TO PSYCHO PATROL R"
+                        p "Release Date: March 23th 2025"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-book-ppr.md"
+                }
+            }
         }
-        script id="navscr" src="/js/navbar.js"
-        script src="/js/books-descriptions.js"
-        script src="/js/books.js"
-        script src="/lib/purejs-markdown.min.js"
+
+        @include "_lib/footer.kdl"
+
+        @include "_lib/noscript.kdl"
     }
 }

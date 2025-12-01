@@ -1,0 +1,25 @@
+#mission {
+    text-align: center;
+}
+a img {
+    width: 20em;
+}
+
+.games {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* flex-flow: row; */
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin: 2em auto 2em auto; */
+}
+
+p {
+    font-size: 1.25em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+

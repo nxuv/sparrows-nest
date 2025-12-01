@@ -1,81 +1,50 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>WIP</title>
-        <link
-            rel="icon"
-            type="image/x-icon"
-            href="/img/presskit/logo-notext.png"
-        />
-        <link rel="stylesheet" type="text/css" href="/css/index.css" />
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <style>
-            body {
-                background-image: url('/img/notfound-back.gif');
-                background-repeat: no-repeat;
-                background-size: cover;
-            }
-
-            #message {
-                text-align: center;
-                margin: 0;
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-                font-family: 'dots';
-                font-size: 6em;
-                color: white;
-            }
-
-            #scanlines {
-                background-image: url('/img/scanlines.png');
-                background-repeat: repeat;
-                position:absolute; top: 0px; left: 0px;
-                width: 100%; height: 100%; z-index:9999;
-                animation: scanAnim 0.7s infinite;
-                animation-timing-function: linear;
-                pointer-events: none;
-            }
-
-            @keyframes scanAnim {
-                0% {
-                    background-position: 0px 0px;
-                }
-                100% {
-                    background-position: 0px 8px;
-                }
-            }
-
-            #navbar {
-                background-color: transparent !important;
-            }
-
-            #navbar a{
-                background-color: transparent !important;
-            }
-
-            #footer {
-                display: none !important;
-            }
-
-
-            #navbar a:hover {
-                color: black !important;
-                background-color: white !important;
-            }
-
-            body::after {
-                opacity: 25%;
-            }
+            :root { --foreground: white; --background: black; }
         </style>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="author" content="Data Sparrow" />
+        <meta name="color-scheme" content="light only" />
+        <link rel="icon" href="/img/presskit/logo-notext.png" />
+        <title>Data Sparrow - WIP</title>
+        <script src="/js/easydom.js"></script>
+        <script src="/js/cookie.js"></script>
+        <script src="/js/themeloader.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/index.css" />
+        <link rel="stylesheet" type="text/css" href="/css/page-wip.css" />
+        <link rel="stylesheet" type="text/css" href="/css/navbar.css" />
     </head>
     <body>
+        <div id="navbar">
+            <a class="navitem" href="/">HOME</a>
+            <a class="navitem" href="/games">GAMES</a>
+            <a class="navitem" href="/books">BOOKS</a>
+            <a class="navitem" href="/music">MUSIC</a>
+            <a class="navitem" href="/mods">MODS</a>
+            <a class="navitem" href="/contact">CONTACT</a>
+            <a class="navitem" href="/about">ABOUT</a>
+            <a class="navitem" href="/links">LINKS</a>
+            <button class="navitem" id="theme-button"></button>
+            <script src="/js/themebutton.js"></script>
+        </div>
         <div id="scanlines"></div>
         <div id="content">
             <div id="message">Work in Progress</div>
         </div>
-        <script id="navscr" src="/js/navbar.js"></script>
+        <div id="footer">
+            <div id="footer-top"></div>
+            <div id="footer-bottom"></div>
+        </div>
+        <noscript>
+            <div id="noscript">
+                <h1>Your browser does not support JavaScript</h1>
+                <h3>
+                    If you can enable it then please do so as this website
+                    cannot run without it
+                </h3>
+            </div>
+        </noscript>
     </body>
 </html>

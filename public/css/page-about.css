@@ -1,0 +1,14 @@
+.mission {
+    font-family: 'ocr';
+    font-size: 1.2em;
+    width: 75%;
+    /* border: 0.25em solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.25em 1em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
