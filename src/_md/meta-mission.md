@@ -10,7 +10,7 @@ to fall into mecha anime tangents whenever a development session runs for long e
 
 We are not a company, but we believe in a proper paper trail.
 We are an art collective, but we're a friend group before anything else.
-We believe that no idea is stupid enough to be put to paper, and we *will* make games out of the least marketable concepts
+We believe that no idea is stupid enough *not* to be put to paper, and we *will* make games out of the least marketable concepts
 we can think of just to see what happens - and because, as it turns out, making art with your friends is really fun.
 That and the fact that we're more or less all fortunate enough to not have to treat this endeavor as our dayjob,
 although the kickbacks do help.
@@ -32,7 +32,7 @@ or find interesting - and we hope that, through play, you may get interested too
 
 **STYLE** means a marriage of beauty and practicality: a meeting between minimalist layout designed for ease of printing,
 paired with lavish key art in a variety of visual styles, using a variety of composition techniques - from 2D art to 3D renders
-to photo-compositing, the only limit is our own capabilities. 
+to photo-compositing, the only limit is our own capabilities.
 <div style="padding: 0.7em;"></div>
 
 UNIFIED SETTING
@@ -55,7 +55,7 @@ But you can also not do that, and that's entirely ok.
 ...WHY'D YOU REWRITE THIS PAGE?
 ===
 
-If you're a returning visitor, you may notice this page used to read a lot differently - and, in some aspects, a lot worse. 
+If you're a returning visitor, you may notice this page used to read a lot differently - and, in some aspects, a lot worse.
 
 That's because, at the time of writing, the writer (who is also writing this new page. Hi!) didn't think highly
 enough of their work to present it in an objective light. All that talk about being "all-too-eager hobbyists"
