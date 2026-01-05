@@ -34,6 +34,8 @@
 - David L. - [https://www.pinayu.com/](https://www.pinayu.com/)
 - Mouette - [https://mouette.moe](https://mouette.moe)
 - WIREGRRRL - [https://digitalorchid.net](https://digitalorchid.net)
+- Junnie Lannes - [https://erosoxides.wixsite.com/portfolio](https://erosoxides.wixsite.com/portfolio)
+- notFUJI - [https://notfuji.neocities.org/](https://notfuji.neocities.org/)
 
 ## **NEWS &amp; CRITIQUE**
 

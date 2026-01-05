@@ -162,7 +162,7 @@ html {
                     img class="gameimg" src="/img/games/lutesse.png"
 
                     p {
-                        a href="" "Buy"
+                        a href="https://datasparrow.itch.io/radio-free-lutesse" "Buy"
                     }
 
                     strong {
