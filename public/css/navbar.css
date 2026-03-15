@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'sqares'; 
+    font-family: 'sqares';
     src: url("../fnt/squares.otf") format('truetype');
 }
 
@@ -22,11 +22,10 @@ body {
 #navbar {
     min-height: 2.5em;
     background-color: black;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-content: flex-start;
-    justify-content: space-around;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     width: 100%;
 }
 
@@ -63,7 +62,7 @@ body {
 
 #theme-button {
     background-image: var(--icon-light);
-    background-size: 40%;
+    background-size: 1.4em;
     background-repeat: no-repeat;
     background-position: center;
     border: none;
@@ -77,10 +76,10 @@ body {
     /* z-index: -1; */
     /* position: absolute;
     bottom: 0; */
-    
+
 	/* position: fixed; */
     position: relative;
-    bottom: 0px; 
+    bottom: 0px;
     width: 100%;
 }
 
@@ -93,4 +92,10 @@ body {
 #footer-bottom {
     background-color: black;
     height: 2em;
+}
+
+#navbar .flex-break {
+    flex-basis: 100%;
+    width: 100%;
+    height: 0;
 }

@@ -3,7 +3,7 @@ Welcome to the official website of the Data Sparrow art collective!
 
 <div style="padding: 0.2em;"></div>
 
-If you’re looking for mechanically bizarre, stylish-looking tabletop games and a vast, varied sci-fi universe tying the whole thing together, you’ve come to the right place.
+If you're looking for mechanically bizarre, stylish-looking tabletop games and a vast, varied sci-fi universe tying the whole thing together, you've come to the right place.
 
 <div style="padding: 0.2em;"></div>
 
@@ -25,7 +25,7 @@ Our currently released projects include:
 </div>
 
 <!-- <div style="padding: 0.4em;"></div> -->
-<!-- We’re currently working on: -->
+<!-- We're currently working on: -->
 <!-- --- -->
 <!---->
 <!-- <div class="games"> -->

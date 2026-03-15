@@ -1,6 +1,6 @@
 ### *The year is 2395*
 
-A decade after the war that shook the Outer Colonies and brought the Avignon Empire to its knees, the Confederation of Shardana, an idyllic ocean world in the Aurelia System, has finally returned to relative normalcy. As the hulks of orbital warships float along coastlines lined with rubble, it’s clear that the worst has come to pass - and now, the only way to go is foward.
+A decade after the war that shook the Outer Colonies and brought the Avignon Empire to its knees, the Confederation of Shardana, an idyllic ocean world in the Aurelia System, has finally returned to relative normalcy. As the hulks of orbital warships float along coastlines lined with rubble, it's clear that the worst has come to pass - and now, the only way to go is foward.
 
 ### *Forward into an uncertain, if ever so hopeful, future.*
 

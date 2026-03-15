@@ -3,7 +3,7 @@ html {
     head {
         @include "_lib/meta.kdl"
 
-        title "Data Sparrow - Music"
+        title "Data Sparrow - Blog"
 
         script src="/js/easydom.js"
         script src="/js/cookie.js"
@@ -31,7 +31,7 @@ html {
         @include "_lib/navbar.kdl"
 
         div id="content" {
-            iframe src="https://datasparrow.bandcamp.com"
+            iframe src="https://datasparrow.tumblr.com"
         }
 
         @include "_lib/noscript.kdl"

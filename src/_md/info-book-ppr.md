@@ -14,7 +14,7 @@ Founded by clamored criminologist Lorenzo Visconti as a new kind of high-tech, a
 
 So go ahead, grab this zine and get acquainted: featuring over 20 pages of useful tidbits, character insights and mildly disconcerting fanart, ORIENTATION is the perfect introduction to the peculiar world of PSYCHO PATROL R, the latest in FPS/RPG europolice simulation by CONSUMER SOFTPRODUCTS. This zine was composed with their blessing and help, allowing us access to the game for playtesting and design advisory purposes. 
 
-All in-game assets depicted, such as weapon models and character portraits, were sourced from CONSUMER SOFTPRODUCTS’ development archives, and all original writing therein was carefully vetted before finalization – to make sure each character’s individual neuroses are rendered accurately and faithfully.
+All in-game assets depicted, such as weapon models and character portraits, were sourced from CONSUMER SOFTPRODUCTS' development archives, and all original writing therein was carefully vetted before finalization – to make sure each character's individual neuroses are rendered accurately and faithfully.
 
 As the only human left on Twin Terra with an iron backbone, a strong sense of justice and very few moral boundaries, only you can pull the Pan-European Federation back from the brink of disaster.
 
