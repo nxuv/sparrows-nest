@@ -13,15 +13,16 @@ Our currently released projects include:
 <div style="padding: 0.4em;"></div>
 
 <div class="games">
-    <a href="https://data-sparrow.itch.io/fist-world-volga"><img class="img-bw" src="/img/games/volga.png" /></a>
-    <a href="https://data-sparrow.itch.io/tremerine-sea-of-the-stars"><img src="/img/games/tremerine.png" /></a>
-    <a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp"><img src="/img/games/shardana.png" /></a>
-    <a href="https://data-sparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a>
+    <a href="https://datasparrow.itch.io/fist-world-volga"><img class="img-bw" src="/img/games/volga.png" /></a>
+    <a href="https://datasparrow.itch.io/tremerine-sea-of-the-stars"><img src="/img/games/tremerine.png" /></a>
+    <a href="https://datasparrow.itch.io/shardana-hydro-trail-gp"><img src="/img/games/shardana.png" /></a>
+    <a href="https://datasparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a>
     <a href="https://datasparrow.itch.io/rebuilding-triunfo"><img src="/img/games/triunfo.png" /></a>
     <a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r"><img src="/img/books/psycho-patrol.png" /></a>
     <a href="https://datasparrow.itch.io/roman-blasters"><img src="/img/games/roman.png" /></a>
     <a href="https://datasparrow.itch.io/sulay-rally-raid"><img src="/img/games/sulay.png" /></a>
-    <a href="https://datasparrow.itch.io/"><img src="/img/games/lutesse.png" /></a>
+    <a href="https://datasparrow.itch.io/radio-free-lutesse"><img src="/img/games/lutesse.png" /></a>
+    <a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet"><img src="/img/books/panthalassa.png" /></a>
 </div>
 
 <!-- <div style="padding: 0.4em;"></div> -->
@@ -29,7 +30,7 @@ Our currently released projects include:
 <!-- --- -->
 <!---->
 <!-- <div class="games"> -->
-<!--     <a href="https://data-sparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a> -->
+<!--     <a href="https://datasparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a> -->
 <!-- </div> -->
 <!-- <div style="padding: 0.4em;"></div> -->
 

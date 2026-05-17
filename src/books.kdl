@@ -45,6 +45,22 @@ html {
                     @include "_lib/separator.kdl"
                     @include "_md/info-book-ppr.md"
                 }
+                // - ------------------------------ Panthalassa ------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg img-bw" src="/img/books/panthalassa.png"
+
+                    p { a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet" "Get Now!" }
+
+                    strong {
+                        p "ALL SEA"
+                        p "AN INTRODUCTORY ZINLET TO PANTHALASSA"
+                        p "Release Date: May 18th 2026"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-book-panthalassa.md"
+                }
             }
         }
 

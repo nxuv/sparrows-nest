@@ -4,6 +4,9 @@
 - Indiepocalypse - [https://pizzapranks.com/](https://pizzapranks.com/)
 - Melonland - [https://melonland.net/](https://melonland.net/)
 - The Dark Union - [https://dark-union.org/](https://dark-union.org/)
+- Domino Club - [https://domino.gallery/](https://domino.gallery/)
+- Infinite Citadel - [https://infinite-citadel.com/](https://infinite-citadel.com/)
+- Infrablack Digital Industry - [https://infrablackdi.itch.io/](https://infrablackdi.itch.io/)
 
 ## **INDEPENDENT TEAMS**
 
@@ -22,7 +25,6 @@
 - Oleander Garden - [https://oleander.garden/](https://oleander.garden/)
 - Jay Tholen - [https://jaytholen.net/](https://jaytholen.net/)
 - Jeremy Coulliard - [https://jeremycouillard.com/](https://jeremycouillard.com/)
-- Kaz Giegue - [https://www.kazgiegue.com/](https://www.kazgiegue.com/)
 - Dante Scanline - [https://dantescanline.com/](https://dantescanline.com/)
 - Waybound - A Military Scifi Anthology - [https://www.waybound.space/](https://www.waybound.space/)
 - DataErase - [https://dataerase.neocities.org/welcome](https://dataerase.neocities.org/welcome)
@@ -36,6 +38,7 @@
 - WIREGRRRL - [https://digitalorchid.net](https://digitalorchid.net)
 - Junnie Lannes - [https://erosoxides.wixsite.com/portfolio](https://erosoxides.wixsite.com/portfolio)
 - notFUJI - [https://notfuji.neocities.org/](https://notfuji.neocities.org/)
+- Kiririn51 - [https://kiririnlight.neocities.org/](https://kiririnlight.neocities.org/)
 
 ## **NEWS &amp; CRITIQUE**
 
@@ -44,6 +47,9 @@
 - Rascal News - [https://www.rascal.news/](https://www.rascal.news/)
 - Indie Hell Zone - [https://indiehellzone.com/](https://indiehellzone.com/)
 - Lo Specchio Scuro - [https://specchioscuro.it/](https://specchioscuro.it/)
+- On The Shoulders of Giants - [https://osgpod.com/](https://osgpod.com/)
+- The Vorpal Coil - [https://vorpalcoil.bttg.net/](https://vorpalcoil.bttg.net/)
+- Gamerevs - [https://gamerevs.it/](https://gamerevs.it/)
 
 ## **OUTSTANDING FANSITES**
 
@@ -55,4 +61,5 @@
 ## **WEB RADIO**
 - Cybergrunge - [https://cybergrunge.net/](https://cybergrunge.net/)
 - Lainzine - [https://radio.lainzine.org/](https://radio.lainzine.org/)
+- Tofokyo - [https://tofokyo.com/](https://tofokyo.com/)
 
