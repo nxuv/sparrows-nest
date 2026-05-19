@@ -75,6 +75,18 @@ html {
                         - "An extensive mod for Golden Lap, the hit F1 management simulator by Funselektor, set in the Data Sparrow shared setting!"
                     }
                 }
+
+                div {
+                    a href="https://gamebanana.com/mods/678061" {
+                        img src="/img/mods/Lutesse_BRC_Cover.png"
+                    }
+                    div class="moddesc" {
+                        - "Bomb Rush Cyberfunk"
+                        br
+                        br
+                        - "A Lutesse-themed modpack including a playable character, 7 board graphics and 2 medley remixes."
+                    }
+                }
             }
         }
 
