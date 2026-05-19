@@ -31,6 +31,19 @@ html {
                         - "A playable version of the rallyraid SUV featured in Sulay Rally Raid!"
                     }
                 }
+
+                div {
+                    a href="https://gamebanana.com/mods/678061" {
+                        img src="/img/mods/Lutesse_BRC_Cover.png"
+                    }
+                    div class="moddesc" {
+                        - "Bomb Rush Cyberfunk"
+                        br
+                        br
+                        - "A Lutesse-themed modpack including a playable character, 7 board graphics and 2 medley remixes."
+                    }
+                }
+
                 div {
                     a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3009166361" {
                         img src="/img/mods/ballisticng.png"
@@ -42,17 +55,7 @@ html {
                         - "A playable version of the racing powerboat featured in Shardana: Hydro Trail GP!"
                     }
                 }
-                div {
-                    a href="https://mod.io/g/hypnospace/m/data-sparrow-hypnospace-homepage" {
-                        img src="/img/mods/hypnospace.png"
-                    }
-                    div class="moddesc" {
-                        - "Hypnospace Outlaw"
-                        br
-                        br
-                        - "A HypnOS version of this very website, featuring songs, backgrounds and stickers to spruce up your oneiric desktop!"
-                    }
-                }
+
                 div {
                     a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3188887623" {
                         img src="/img/mods/shardana-tabletop.png"
@@ -64,6 +67,7 @@ html {
                         - "A \"Lite\" version of Shardana: Hydro Trail GP, featuring a snazzy new board and all the bells &amp; whistles that come with virtual play."
                     }
                 }
+
                 div {
                     a href="https://steamcommunity.com/workshop/filedetails/?id=3379060264" {
                         img src="/img/mods/gl2370.png"
@@ -77,14 +81,14 @@ html {
                 }
 
                 div {
-                    a href="https://gamebanana.com/mods/678061" {
-                        img src="/img/mods/Lutesse_BRC_Cover.png"
+                    a href="https://mod.io/g/hypnospace/m/data-sparrow-hypnospace-homepage" {
+                        img src="/img/mods/hypnospace.png"
                     }
                     div class="moddesc" {
-                        - "Bomb Rush Cyberfunk"
+                        - "Hypnospace Outlaw"
                         br
                         br
-                        - "A Lutesse-themed modpack including a playable character, 7 board graphics and 2 medley remixes."
+                        - "A HypnOS version of this very website, featuring songs, backgrounds and stickers to spruce up your oneiric desktop!"
                     }
                 }
             }
