@@ -23,6 +23,7 @@ Our currently released projects include:
     <a href="https://datasparrow.itch.io/sulay-rally-raid"><img src="/img/games/sulay.png" /></a>
     <a href="https://datasparrow.itch.io/radio-free-lutesse"><img src="/img/games/lutesse.png" /></a>
     <a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet"><img src="/img/books/panthalassa.png" /></a>
+    <a href="https://datasparrow.itch.io/maiombe-tank-safari"><img src="/img/games/maiombe_logo.png" /></a>
 </div>
 
 <!-- <div style="padding: 0.4em;"></div> -->
