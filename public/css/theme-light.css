@@ -5,6 +5,16 @@
     --icon-light: url("/img/moon.png");
 }
 
+a {
+    color: #0028ac;
+    text-shadow: 2px 2px 2px #00103044;
+}
+
+a:hover {
+    color: #00188c;
+    text-shadow: 2px 2px 3px #00103099;
+}
+
 .img-bw {
     filter: none;
 }

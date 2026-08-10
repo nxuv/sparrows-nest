@@ -35,6 +35,10 @@
 .gamedesc {
     font-size: 2em;
     font-family: "ocr";
+    text-align: justify;
+}
+
+.gamedesc > .gamelink, .gamedesc > strong, .gamedesc > h3 {
     text-align: center;
 }
 
@@ -90,12 +94,13 @@
     background-image: url("/img/arrow-right.svg");
 }
 
-.gamedesc a:nth-child(1) {
-    color: blue;
-}
+/* .gamedesc a:nth-child(1) { */
+/*     color: blue; */
+/* } */
 
 .gamedesc a:nth-child(1)[href=""] {
     color: red;
-    text-decoration: none;
+    text-decoration: line-through;
     pointer-events: none;
+    text-shadow: 1px 1px 4px #d93300;
 }

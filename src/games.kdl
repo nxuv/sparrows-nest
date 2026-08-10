@@ -32,7 +32,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg img-bw" src="/img/games/volga.png"
 
-                    p { a href="https://data-sparrow.itch.io/fist-world-volga" "Buy" }
+                    p class="gamelink" { a href="https://data-sparrow.itch.io/fist-world-volga" "Buy" }
 
                     strong {
                         p "FIST WORLD VOLGA"
@@ -49,7 +49,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/tremerine.png"
 
-                    p { a href="https://data-sparrow.itch.io/tremerine-sea-of-the-stars" "Buy" }
+                    p class="gamelink" { a href="https://data-sparrow.itch.io/tremerine-sea-of-the-stars" "Buy" }
 
                     strong {
                         p "TREMERINE: SEA OF THE STARS"
@@ -66,9 +66,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/shardana.png"
 
-                    p {
-                        a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp" "Buy"
-                    }
+                    p class="gamelink" { a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp" "Buy" }
 
                     strong {
                         p "SHARDANA: HYDRO TRAIL GP"
@@ -85,9 +83,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/sirius.png"
 
-                    p {
-                        a href="https://data-sparrow.itch.io/sirius-treacherous-reaches" "Buy"
-                    }
+                    p class="gamelink" { a href="https://data-sparrow.itch.io/sirius-treacherous-reaches" "Buy" }
 
                     strong {
                         p "SIRIUS: TREACHEROUS REACHES"
@@ -104,9 +100,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/triunfo.png"
 
-                    p {
-                        a href="https://datasparrow.itch.io/rebuilding-triunfo" "Buy"
-                    }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/rebuilding-triunfo" "Buy" }
 
                     strong {
                         p "REBUILDING TRIUNFO"
@@ -123,9 +117,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/roman.png"
 
-                    p {
-                        a href="https://datasparrow.itch.io/roman-blasters" "Buy"
-                    }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/roman-blasters" "Buy" }
 
                     strong {
                         p "ROMAN BLASTERS"
@@ -142,9 +134,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/sulay.png"
 
-                    p {
-                        a href="https://datasparrow.itch.io/sulay-rally-raid" "Buy"
-                    }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/sulay-rally-raid" "Buy" }
 
                     strong {
                         p "SULAY RALLY RAID"
@@ -161,9 +151,7 @@ html {
                 div class="gamedesc" {
                     img class="gameimg" src="/img/games/lutesse.png"
 
-                    p {
-                        a href="https://datasparrow.itch.io/radio-free-lutesse" "Buy"
-                    }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/radio-free-lutesse" "Buy" }
 
                     strong {
                         p "RADIO FREE LUTESSE"
@@ -176,13 +164,28 @@ html {
                     @include "_md/info-lutesse.md"
                 }
 
+                // ---------------------------------- Miombe -----------------------------------
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/maiombe_logo.png"
+
+                    p class="gamelink" { a href="https://datasparrow.itch.io/maiombe-tank-safari" "Buy" }
+
+                    strong {
+                        p "MA!OMBE TANK SAFARI"
+                        p "Release Date: August 15 2026"
+                        p "Media Type: Solitaire Hunting RPG"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-maiombe.md"
+                }
+
                 // - --------------------------------- TEMPLATE --------------------------------- -
                 // div class="gamedesc" {
                 //     img class="gameimg" src="/img/games/.png"
 
-                //     p {
-                //         a href="" "Buy"
-                //     }
+                //     p class="gamelink" { a href="" "Buy" }
 
                 //     strong {
                 //         p ""

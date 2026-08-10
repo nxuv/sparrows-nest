@@ -5,6 +5,18 @@
     --icon-light: url("/img/sun.png");
 }
 
+a {
+    /* color: #00489c; */
+    /* text-shadow: 2px 2px 4px #006e7c; */
+    color: #afcfff;
+    text-shadow: 2px 2px 8px #95b8fc;
+}
+
+a:hover {
+    color: #dfdfff;
+    text-shadow: 2px 2px 16px #b5d8ff;
+}
+
 .img-bw {
     filter: invert(1);
 }

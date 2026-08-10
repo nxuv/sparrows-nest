@@ -16,6 +16,7 @@
 - Peach Garden Games - [https://peachgardengames.com/](https://peachgardengames.com/)
 - Dead Set Media - [https://deadsetmedia.com/](https://deadsetmedia.com/)
 - Dreamware Games - [https://dreamware.press/](https://dreamware.press/)
+- stillfleet studio - [https://stillfleet.com/](https://stillfleet.com/)
 
 ## **INDIVIDUAL ARTISTS**
 
@@ -39,6 +40,9 @@
 - Junnie Lannes - [https://erosoxides.wixsite.com/portfolio](https://erosoxides.wixsite.com/portfolio)
 - notFUJI - [https://notfuji.neocities.org/](https://notfuji.neocities.org/)
 - Kiririn51 - [https://kiririnlight.neocities.org/](https://kiririnlight.neocities.org/)
+- Bogleech - [https://bogleech.com/](https://bogleech.com/)
+- KayinWorks - [https://kayin.moe/](https://kayin.moe/)
+- Kanaris - [https://kanaris.net/](https://kanaris.net/)
 
 ## **NEWS &amp; CRITIQUE**
 
@@ -50,6 +54,9 @@
 - On The Shoulders of Giants - [https://osgpod.com/](https://osgpod.com/)
 - The Vorpal Coil - [https://vorpalcoil.bttg.net/](https://vorpalcoil.bttg.net/)
 - Gamerevs - [https://gamerevs.it/](https://gamerevs.it/)
+- Thresholds of Transofmation - [https://thresholds-of-transformation.blog/](https://thresholds-of-transformation.blog/)
+- No Escape - [https://noescapevg.com/](https://noescapevg.com/)
+- Livore - [https://www.livore.it/](https://www.livore.it/)
 
 ## **OUTSTANDING FANSITES**
 

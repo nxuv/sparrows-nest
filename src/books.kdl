@@ -31,9 +31,9 @@ html {
             div id="descbox" {
                 // - ------------------------------ PSYCHO PATROL ------------------------------- -
                 div class="gamedesc" {
-                    img class="gameimg img-bw" src="/img/books/psycho-patrol.png"
+                    img class="gameimg" src="/img/books/psycho-patrol.png"
 
-                    p { a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r" "Get Now!" }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r" "Get Now!" }
 
                     strong {
                         p "ORIENTATION"
@@ -47,9 +47,9 @@ html {
                 }
                 // - ------------------------------ Panthalassa ------------------------------- -
                 div class="gamedesc" {
-                    img class="gameimg img-bw" src="/img/books/panthalassa.png"
+                    img class="gameimg" src="/img/books/panthalassa.png"
 
-                    p { a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet" "Get Now!" }
+                    p class="gamelink" { a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet" "Get Now!" }
 
                     strong {
                         p "ALL SEA"
