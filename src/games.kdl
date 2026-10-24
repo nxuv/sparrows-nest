@@ -183,7 +183,7 @@ html {
 
                 // - --------------------------------- SCURSE --------------------------------- -
                 div class="gamedesc" {
-                    img class="gameimg" src="/img/games/solar_logo_with_jam_-_Copy.png"
+                    img class="gameimg" src="/img/games/Solar_Curse_logo3.png"
 
                     p class="gamelink" { a href="https://datasparrow.itch.io/solar-curse-jam-version" "Get" }
 

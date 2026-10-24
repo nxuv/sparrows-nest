@@ -8,6 +8,8 @@ Finding the fortress was the easy part.
 
 Now you must survive the forsaken beings that stalk its halls, or you'll soon join the fools who have fallen to the...
 
+<img src="/img/games/solar_logo_with_jam_-_Copy.png" style="width: 100%" />
+
 **Solar Curse** is a very short dungeon crawler inspired by King's Field, powered by a **homegrown software renderer** for the **1.44MB GAMEDEV CONTEST**: a game jam challenging game developers across the world to make any kind of videogame-shaped software that could fit in a single floppy disk.
 
 It may be developed into a full game at some point in the future, in which case this page will get a revamp too.
