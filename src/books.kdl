@@ -61,6 +61,22 @@ html {
                     @include "_lib/separator.kdl"
                     @include "_md/info-book-panthalassa.md"
                 }
+                // ------------------------------ Penguin Colony -------------------------------
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/books/Field_Notes_Logo.png"
+
+                    p class="gamelink" { a href="https://datasparrow.itch.io/penguin-colony-the-field-notes" "Get Now!" }
+
+                    strong {
+                        p "PENGUIN COLONY"
+                        p "THE FIELD NOTES"
+                        p "Release Date: Oct 17th 2026"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-book-penguin.md"
+                }
             }
         }
 

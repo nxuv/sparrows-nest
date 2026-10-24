@@ -6,7 +6,7 @@
 - The Dark Union - [https://dark-union.org/](https://dark-union.org/)
 - Domino Club - [https://domino.gallery/](https://domino.gallery/)
 - Infinite Citadel - [https://infinite-citadel.com/](https://infinite-citadel.com/)
-- Infrablack Digital Industry - [https://infrablackdi.itch.io/](https://infrablackdi.itch.io/)
+- ENKIDA: Interactive Visual Studio - [https://enkida-iva.itch.io/](https://enkida-iva.itch.io/)
 
 ## **INDEPENDENT TEAMS**
 
@@ -16,7 +16,7 @@
 - Peach Garden Games - [https://peachgardengames.com/](https://peachgardengames.com/)
 - Dead Set Media - [https://deadsetmedia.com/](https://deadsetmedia.com/)
 - Dreamware Games - [https://dreamware.press/](https://dreamware.press/)
-- stillfleet studio - [https://stillfleet.com/](https://stillfleet.com/)
+- Stillfleet Studio - [https://stillfleet.com/](https://stillfleet.com/)
 
 ## **INDIVIDUAL ARTISTS**
 
@@ -26,7 +26,6 @@
 - Oleander Garden - [https://oleander.garden/](https://oleander.garden/)
 - Jay Tholen - [https://jaytholen.net/](https://jaytholen.net/)
 - Jeremy Coulliard - [https://jeremycouillard.com/](https://jeremycouillard.com/)
-- Dante Scanline - [https://dantescanline.com/](https://dantescanline.com/)
 - Waybound - A Military Scifi Anthology - [https://www.waybound.space/](https://www.waybound.space/)
 - DataErase - [https://dataerase.neocities.org/welcome](https://dataerase.neocities.org/welcome)
 - DV-i Hypermedia - [http://im.dvihypermedia.net](http://im.dvihypermedia.net)
@@ -43,6 +42,7 @@
 - Bogleech - [https://bogleech.com/](https://bogleech.com/)
 - KayinWorks - [https://kayin.moe/](https://kayin.moe/)
 - Kanaris - [https://kanaris.net/](https://kanaris.net/)
+- Bare Nuckelavee - [https://barenuckelavee.bearblog.dev/](https://barenuckelavee.bearblog.dev/)
 
 ## **NEWS &amp; CRITIQUE**
 
@@ -54,9 +54,11 @@
 - On The Shoulders of Giants - [https://osgpod.com/](https://osgpod.com/)
 - The Vorpal Coil - [https://vorpalcoil.bttg.net/](https://vorpalcoil.bttg.net/)
 - Gamerevs - [https://gamerevs.it/](https://gamerevs.it/)
-- Thresholds of Transofmation - [https://thresholds-of-transformation.blog/](https://thresholds-of-transformation.blog/)
+- Thresholds of Transformation - [https://thresholds-of-transformation.blog/](https://thresholds-of-transformation.blog/)
 - No Escape - [https://noescapevg.com/](https://noescapevg.com/)
 - Livore - [https://www.livore.it/](https://www.livore.it/)
+- The Crossover Appeal - [https://www.thecrossoverappeal.com/](https://www.thecrossoverappeal.com/)
+- Jank.cool - [https://www.jank.cool/](https://www.jank.cool/)
 
 ## **OUTSTANDING FANSITES**
 
@@ -64,6 +66,7 @@
 - The IGPX Fansite - [https://www.theigpx.com/](https://www.theigpx.com/)
 - Cave Story Tribute Site - [https://www.cavestory.org/](https://www.cavestory.org/)
 - Captain Zedo's Hardwar Community Page - [http://zedo.hardwar.info/](http://zedo.hardwar.info/)
+- Fantasy Anime - [https://fantasyanime.com/](https://fantasyanime.com/)
 
 ## **WEB RADIO**
 - Cybergrunge - [https://cybergrunge.net/](https://cybergrunge.net/)

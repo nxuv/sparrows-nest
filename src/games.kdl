@@ -172,7 +172,7 @@ html {
 
                     strong {
                         p "MA!OMBE TANK SAFARI"
-                        p "Release Date: August 15 2026"
+                        p "Release Date: August 15th 2026"
                         p "Media Type: Solitaire Hunting RPG"
                         p "Platform: Itch.io"
                     }
@@ -180,6 +180,24 @@ html {
                     @include "_lib/separator.kdl"
                     @include "_md/info-maiombe.md"
                 }
+
+                // - --------------------------------- SCURSE --------------------------------- -
+                div class="gamedesc" {
+                    img class="gameimg" src="/img/games/solar_logo_with_jam_-_Copy.png"
+
+                    p class="gamelink" { a href="https://datasparrow.itch.io/solar-curse-jam-version" "Get" }
+
+                    strong {
+                        p "Solar Curse: Jam Version"
+                        p "Release Date: Sep 13th 2026"
+                        p "Media Type: Dungeon Crawler Videogame"
+                        p "Platform: Itch.io"
+                    }
+
+                    @include "_lib/separator.kdl"
+                    @include "_md/info-scurse.md"
+                }
+                // - ---------------------------------------------------------------------------- -
 
                 // - --------------------------------- TEMPLATE --------------------------------- -
                 // div class="gamedesc" {

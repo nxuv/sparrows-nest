@@ -7,33 +7,19 @@ If you're looking for mechanically bizarre, stylish-looking tabletop games and a
 
 <div style="padding: 0.2em;"></div>
 
-Our currently released projects include:
+You may know us from:
 ---
 
 <div style="padding: 0.4em;"></div>
 
 <div class="games">
     <a href="https://datasparrow.itch.io/fist-world-volga"><img class="img-bw" src="/img/games/volga.png" /></a>
-    <a href="https://datasparrow.itch.io/tremerine-sea-of-the-stars"><img src="/img/games/tremerine.png" /></a>
     <a href="https://datasparrow.itch.io/shardana-hydro-trail-gp"><img src="/img/games/shardana.png" /></a>
-    <a href="https://datasparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a>
     <a href="https://datasparrow.itch.io/rebuilding-triunfo"><img src="/img/games/triunfo.png" /></a>
-    <a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r"><img src="/img/books/psycho-patrol.png" /></a>
-    <a href="https://datasparrow.itch.io/roman-blasters"><img src="/img/games/roman.png" /></a>
-    <a href="https://datasparrow.itch.io/sulay-rally-raid"><img src="/img/games/sulay.png" /></a>
-    <a href="https://datasparrow.itch.io/radio-free-lutesse"><img src="/img/games/lutesse.png" /></a>
-    <a href="https://datasparrow.itch.io/all-sea-a-panthalassa-zinelet"><img src="/img/books/panthalassa.png" /></a>
     <a href="https://datasparrow.itch.io/maiombe-tank-safari"><img src="/img/games/maiombe_logo.png" /></a>
+    <a href="https://datasparrow.itch.io/orientation-an-introductory-zinelet-to-psycho-patrol-r"><img src="/img/books/psycho-patrol.png" /></a>
+    <a href="https://datasparrow.itch.io/penguin-colony-the-field-notes"><img src="/img/books/Field_Notes_Logo.png" /></a>
 </div>
-
-<!-- <div style="padding: 0.4em;"></div> -->
-<!-- We're currently working on: -->
-<!-- --- -->
-<!---->
-<!-- <div class="games"> -->
-<!--     <a href="https://datasparrow.itch.io/sirius-treacherous-reaches"><img src="/img/games/sirius.png" /></a> -->
-<!-- </div> -->
-<!-- <div style="padding: 0.4em;"></div> -->
 
 Wanna know more about us? The [ABOUT](/about) page is here for you!
 
